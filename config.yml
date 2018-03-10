@@ -1,0 +1,4 @@
+# The blocks that'll prevent water and lava from flowing
+blocks:
+- STONE
+- IRON_BLOCK
